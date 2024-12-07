@@ -1,0 +1,29 @@
+Judul: Generative AI Mampu Hasilkan Teks, Gambar dan video yang Lebih Kompleks
+Tanggal: Minggu, 27 Oktober 2024 19:42 WIB
+Penulis: Eko Sutriyanto
+Editor: Choirul Arifin
+
+Isi Artikel:
+Laporan Wartawan Tribunnews.com Eko Sutriyanto 
+ 
+TRIBUNNNEWS.COM, JAKARTA - Penggunaan teknologi kecerdasan buatan (AI) di sektor bisnis Indonesia terus berkembang pesat terutama di bidang layanan pelanggan, manajemen SDM, pendidikan dan keamanan siber. 
+Head of Data Science di Kalbe Group, Ardya Dipta mengatakan,  awalnya AI tradisional digunakan hanya untuk meningkatkan efisiensi melalui tugas-tugas berbasis aturan.
+"Namun, dengan munculnya Generative AI, teknologi ini kini mampu menghasilkan teks, gambar, dan video yang lebih kompleks melalui model-model seperti GPT dan Gemini," ujar Ardya Dipta saat menjadi panelis diskusi panel “AI Dalam 3 Babak: Dari Eksperimen ke Transformasi Industri dengan Next Gen AI," di Auditorium MRPQ Fakultas Teknik - Universitas Indonesia, Sabtu (26/10/2024). 
+Ia menekankan, saat ini AI untuk enterprise merupakan kombinasi antara AI tradisional yang disempurnakan dengan Generative AI untuk meningkatkan efisiensi dan inovasi. 
+"Namun, dalam beberapa kasus, automasi dengan model machine learning tertentu sudah cukup untuk menyelesaikan pekerjaan tanpa memerlukan Generative AI," tambahnya.
+
+IT Project Manager di BNI,  Bagus Chandra Wibawa berpendapat, integrasi AI dalam perusahaan tidak hanya soal teknologi, tetapi juga tentang bagaimana AI diadopsi sebagai bagian dari strategi bisnis jangka panjang.
+"AI dapat mempercepat proses dan memberikan solusi yang lebih cepat serta akurat di berbagai sektor seperti perbankan. Namun, keberhasilannya sangat bergantung pada kesiapan SDM dan keselarasan visi perusahaan," paparnya.
+Baca juga:  Industri Jasa Keuangan Perlu Antisipasi Ancaman Keamanan Siber dan Adopsi AI
+Ia menggarisbawahi tantangan utama dalam implementasi AI adalah menemukan talenta yang tidak hanya memahami teori, tetapi juga mampu menerapkannya dalam proyek nyata.
+"AI, khususnya Next Gen AI, membutuhkan kombinasi keterampilan teknis dan pemahaman bisnis," lanjutnya.
+Sebagai alumni Teknik Elektro UI, Chandra menyatakan pentingnya kolaborasi antara industri dan kampus untuk menjembatani kesenjangan talenta.
+Baca juga:  AI Generatif Jadi Pilihan Prioritas di Banyak Perusahaan, Tapi Terkendala Pengelolaan Data
+ "Kolaborasi ini penting untuk memastikan lulusan siap menghadapi tantangan teknologi dan AI di masa depan," tambahnya.
+CEO IYKRA, Fajar Jaman mengatakan, transformasi digital di perusahaan-perusahaan Indonesia dilakukan melalui penerapan teknologi kecerdasan buatan dengan kerangka kerja Next Gen AI.
+"Kerangka ini mencakup tiga langkah utama eksplorasi untuk mengidentifikasi peluang efisiensi, desain solusi yang disesuaikan dengan kebutuhan bisnis, serta implementasi AI secara menyeluruh," katanya.
+Dengan pendekatan ini, kata dia perusahaan dapat mengoptimalkan operasional, memperkuat analisis data, dan meningkatkan ketajaman pengambilan keputusan.
+Baca juga:  Google Pakai Reaktor Nuklir Kecil untuk Kembangkan Pusat Data AI
+Selain membantu perusahaan berinovasi dengan Next Gen AI, kata Fajar pihaknya juga fokus pada pengembangan talenta teknologi muda melalui program bootcamp AI Engineering Fellowship.
+"Program ini dirancang untuk membekali generasi muda Indonesia dengan keterampilan AI terbaru agar siap menghadapi akselerasi teknologi," tutup Fajar.
+Ia menekankan bahwa transformasi teknologi yang cepat harus diimbangi dengan kesiapan industri dan SDM agar tetap relevan dan kompetitif di era digital.

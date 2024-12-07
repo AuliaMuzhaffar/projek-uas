@@ -1,0 +1,36 @@
+Judul: Serangan ke Pengguna Seluler Berbasis GenAI Makin Canggih, Modus Rekayasa Sosial Kian Personal
+Tanggal: Sabtu, 26 Oktober 2024 18:33 WIB
+Penulis: Choirul Arifin
+Editor: Hendra Gunawan
+
+Isi Artikel:
+TRIBUNNEWS.COM, JAKARTA - Ancaman serangan malware terhadap pengguna seluler dalam beberapa tahun terakhir menunjukkan peningkatan signifikan, antara lain akibat ketidaksengajaan pengguna mengunduh malware maupun melalui praktik rekayasa sosial.
+Data Badan Siber dan Sandi Negara (BSSN), hampir separuh dari 400 juta anomali lalu lintas yang terdeteksi sepanjang tahun lalu berasal dari malware. Hal ini menunjukkan bahwa para pelaku kejahatan siber semakin memanfaatkan metode ini untuk merusak sistem keamanan digital.
+Salah satu faktor utama di balik meningkatnya ancaman tersebut adalah taktik rekayasa sosial yang kian canggih.
+Baca juga:  Uang Hilang di Rekening BRI, Ternyata Transaksi Top Up Aplikasi Pihak Ketiga Lewat BRIVA 
+Berdasarkan survei oleh Appdome, sebanyak 55,3 persen konsumen kini lebih memilih aplikasi seluler dibandingkan platform berbasis web.
+Perangkat seluler menjadi target yang semakin rentan terhadap serangan. Selain itu, survei yang sama juga menunjukkan bahwa sebanyak 70,6 persen pengguna seluler telah menjadi korban atau mengenal seseorang yang menjadi korban serangan rekayasa sosial atau penipuan serupa lainnya.
+Rekayasa Sosial Sangat Personal dalam Menyasar Korbannya
+Serangan yang berbasis rekayasa sosial ini sangat personal dan didukung oleh manipulasi psikologis yang memanfaatkan emosi manusia. Hal ini membuat siapa pun, termasuk mereka yang paham teknologi, bisa menjadi korban.
+ "Dengan semakin berkembangnya serangan berbasis AI yang canggih, ancaman terhadap pengguna seluler semakin meningkat. Hal ini menuntut langkah proaktif untuk melindungi data sensitif serta pengguna dari potensi bahaya," ungkap Jan Sysmans, Mobile App Security Evangelist, Appdome dikutip dari keterangan tertulis, Sabtu, 26 Oktober 2024.
+
+Dalam menghadapi ancaman ini, AI generatif bisa membantu aplikasi seluler melindungi penggunanya. Teknologi Large Language Models (LLM) dan AI generatif memungkinkan penyaringan dan analisis data besar yang tersedia di internet dengan lebih efisien. 
+Namun, solusi berbasis AI ini memerlukan pemahaman mendalam tentang serangan dan konteks yang relevan, seperti metode serangan, tipe perangkat, serta sistem operasi yang digunakan.
+Untuk memberikan perlindungan yang optimal, sistem ini harus didukung oleh agen dinamis yang dapat secara otomatis menghasilkan respons yang tepat dan tepat waktu bagi pengguna, sehingga mereka dapat menyelesaikan masalah secara instan.
+Selain teknologi yang canggih, pengalaman pengguna seluler juga menjadi faktor kunci dalam keamanan aplikasi seluler.
+Masih mengacu pada survei terbaru Appdome, 99,5 persen pengguna seluler ingin mendapatkan perlindungan menyeluruh di dalam aplikasi seluler yang mereka gunakan.
+Antara lain meliputi keamanan data, integritas akun, perlindungan login, hingga keamanan data dalam perjalanan.
+Ada kenaikan 258 persen dalam jumlah responden yang merasa pengembang aplikasi tidak cukup memperhatikan perlindungan tersebut.
+Hal ini mengindikasikan bahwa satu dari empat pengguna kini meragukan upaya pengembang dalam menjaga keamanan aplikasi.
+Dampaknya tidak kecil. Survei menunjukkan bahwa 96,7 persen responden menyatakan akan meninggalkan brand yang gagal melindungi aplikasi mereka, dan hampir 74 persen dari mereka akan memperingatkan orang lain untuk melakukan hal yang sama.
+Sebaliknya, merek yang mampu menyediakan perlindungan kuat namun tetap ramah pengguna akan mendapatkan loyalitas dari 94,6 persen responden. 
+Sebagian besar dari mereka juga menyatakan akan mendukung merek tersebut melalui ulasan di app store atau rekomendasi di media sosial.
+Untuk menjaga kepercayaan dan kepuasan pengguna, merek seluler harus dapat memberikan panduan keamanan secara real-time dan kontekstual.
+Ini akan menyederhanakan solusi bagi pengguna akhir, sekaligus menjaga keamanan tetap intuitif dan mudah dinavigasi.
+Dengan pendekatan ini, merek dapat meningkatkan kepuasan pengguna sambil tetap memastikan perlindungan optimal terhadap ancaman yang terus berkembang.
+Keamanan Aplikasi Seluler Harus Terus Ditingkatkan
+Di sisi lain, keamanan aplikasi seluler juga harus terus berevolusi agar dapat mengantisipasi ancaman yang semakin canggih. 
+Beberapa serangan yang paling efektif, seperti voice phishing dan bypassing pada FaceID, memerlukan kemampuan untuk mendeteksi, memblokir, dan mencegah serangan sebelum memanfaatkan kepercayaan atau memanipulasi perilaku pengguna.
+Menurut Jan Sysmans, di sinilah pentingnya solusi canggih seperti penilaian keamanan otomatis serta pembaruan dan patching aplikasi secara berkala.
+"Keamanan yang solid tidak hanya melibatkan teknologi mutakhir, tetapi juga memerlukan transparansi dalam komunikasi mengenai penggunaan data, kepatuhan terhadap regulasi privasi, serta pemberian pengalaman pengguna yang aman dan menyenangkan," ujarnya.
+"Dengan menerapkan strategi ini, perusahaan tidak hanya dapat melindungi data dan privasi pengguna, tetapi juga mempertahankan kepercayaan mereka dalam jangka panjang," lanjutnya.

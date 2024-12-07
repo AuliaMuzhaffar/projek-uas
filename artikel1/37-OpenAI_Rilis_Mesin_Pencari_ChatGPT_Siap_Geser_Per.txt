@@ -1,0 +1,36 @@
+Judul: OpenAI Rilis Mesin Pencari ChatGPT, Siap Geser Peran Google
+Tanggal: Jumat, 1 November 2024 11:20 WIB
+Penulis: Choirul Arifin
+Editor: Editor tidak ditemukan
+
+Isi Artikel:
+TRIBUNNEWS.COM, SAN FRANCISCO - OpenAI meningkatkan chatbot kecerdasan buatan generatif (AI) ChatGPT dengan kemampuan mesin pencari, seiring dengan upaya perusahaan rintisan ini untuk mengambil alih dominasi pencarian web Google selama puluhan tahun, Kamis, 31 Oktober Oktober 2024. 
+Peningkatan ini memungkinkan pengguna menerima “jawaban yang cepat dan tepat waktu” dengan tautan ke sumber web yang relevan – informasi yang sebelumnya diperlukan menggunakan mesin pencari tradisional, kata perusahaan itu.
+Peningkatan signifikan pada ChatGPT memungkinkan chatbot AI memberikan informasi real-time dari seluruh web.
+Dikutip dari AFP, beranda ChatGPT kini juga dapat menawarkan tab langsung ke materi bersumber tentang berbagai topik mulai dari prakiraan cuaca dan harga saham hingga skor olahraga dan berita terkini.
+Ini akan ditautkan ke berita dan data dari penyedia yang telah menandatangani kesepakatan konten dengan OpenAI, termasuk Le Monde dari Prancis, Axel Springer dari Jerman, dan Financial Times dari Inggris.
+Contoh antarmuka baru yang ditampilkan di situs web OpenAI sangat mirip dengan hasil pencarian di Google dan Google Maps, meskipun tanpa iklan yang berantakan.
+
+Ilustrasi logo ChatGPT _ (Digital Trends)
+
+Mereka juga menyerupai antarmuka Perplexity, mesin pencari bertenaga AI lainnya yang menawarkan versi Google yang lebih komunikatif dengan sumber yang dirujuk dalam jawabannya.
+Baik OpenAI dan Perplexity menghadapi tuntutan hukum dari The New York Times karena menghapus atau menautkan ke konten berhak cipta tanpa izin.
+Daripada meluncurkan produk terpisah, OpenAI telah mengintegrasikan pencarian langsung ke ChatGPT untuk pelanggan berbayar, meskipun ini akan diperluas ke pengguna yang menggunakan chatbot versi gratis.
+
+Pengguna dapat mengaktifkan fitur pencarian secara default atau mengaktifkannya secara manual melalui ikon pencarian web.
+Perusahaan menambahkan bahwa situs web atau penerbit mana pun dapat memilih untuk muncul di hasil pencarian ChatGPT, dan OpenAI secara aktif mencari masukan dari pembuat konten untuk menyempurnakan sistem lebih lanjut.
+'Fitur favorit'
+Sejak peluncurannya, data pada chatbot AI seperti ChatGPT atau Claude Anthropic dibatasi oleh batasan waktu, sehingga jawaban yang diberikan tidak mutakhir.
+Hal ini dipandang sebagai kelemahan chatbot AI, terutama di OpenAI, yang tidak memiliki mesin pencari mandiri yang menyediakan data lebih tepat waktu.
+Baca juga:  CES 2024: Volkswagen Pamer Mobil Listrik Berbasis AI ChatGPT yang Bisa Respon Obrolan Pengendara
+Sebaliknya, Google dan Microsoft menggabungkan jawaban AI dengan hasil web.
+Pembuat ChatGPT, OpenAI, akan membuat chip AI internal pertamanya dengan Broadcom, TSMCMantan insinyur Google dituduh mencuri rahasia AI untuk perusahaan TiongkokUntuk saat ini, fitur tersebut tidak menyertakan iklan, sehingga ChatGPT menawarkan hasil yang jauh lebih bersih dibandingkan Google.
+Kepala eksekutif OpenAI Sam Altman menulis pada 31 Oktober di X bahwa pencarian adalah “fitur favorit yang kami luncurkan” di ChatGPT sejak bot tersebut debut pada tahun 2022.
+Baca juga:  Tongyi Qianwen, Pesaing Baru Industri AI Bikinan Alibaba yang Diklaim Lebih Unggul dari ChatGPT
+“Menurut saya ini adalah cara yang lebih cepat/mudah untuk mendapatkan informasi yang saya cari,” tambah Altman di Reddit.
+Peluncuran ini akan menimbulkan lebih banyak pertanyaan tentang hubungan startup tersebut dengan Microsoft, investor besar OpenAI, yang juga mencoba memperluas jangkauan mesin pencari Bing melawan Google.
+Altman telah menempatkan perusahaannya di jalur yang tepat untuk menjadi pembangkit tenaga listrik internet.
+Baca juga:  Meta Kembangkan Sistem Kecerdasan Buatan Baru, Diklaim Lebih Canggih dari ChatGPT
+Dia berhasil melambungkan perusahaan tersebut ke valuasi yang mengejutkan sebesar US$157 miliar (S$207,4 miliar) dalam putaran penggalangan dana baru-baru ini yang melibatkan Microsoft, konglomerat SoftBank yang berbasis di Tokyo, dan pembuat chip AI Nvidia sebagai investor.
+Memikat pengguna baru dengan kemampuan mesin pencari akan meningkatkan kebutuhan dan biaya komputasi perusahaan yang sangat besar. 
+Sumber: AFP/The Straits Times

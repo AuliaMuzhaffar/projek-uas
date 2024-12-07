@@ -1,0 +1,41 @@
+Judul: Hong Kong Larang PNS Gunakan WhatsApp dan Google Drive di Komputer Kerja: Ini Alasannya
+Tanggal: Rabu, 23 Oktober 2024 05:22 WIB
+Penulis: Choirul Arifin
+Editor: Editor tidak ditemukan
+
+Isi Artikel:
+TRIBUNNEWS.COM - Pemerintah Hong Kong melarang pegawai negeri (PNS) menggunakan aplikasi layanan pengiriman pesan WhatsApp dan penyimpanan cloud Google Drive di komputer kerja.
+Hal itu mengacu pada keputusan Pemerintah Hong Kong yang merombak strategi keamanan siber di kalangan pegawai pemerintah yang juga mencakup WeChat dan layanan perpesanan tidak sah lainnya serta layanan penyimpanan cloud. 
+Penggunaan aplikasi WhatsApp, WeChat dan Google Drive di komputer kerja dianggap ilegal dan memicu “risiko keamanan internet yang parah.”
+Penegasan tersebut disampaikan Sekretaris Inovasi, Teknologi dan Industri Hong Kong, Sun Dong, Selasa, 22 Oktober 2024.
+Dia mengatakan “peraturan ketat” mengenai desktop pegawai negeri sipil serupa juga dilakukan oleh pihak berwenang di Amerika Serikat dan Tiongkok daratan.
+
+Menteri Inovasi, Teknologi dan Industri Hong Kong, Sun Dong. Dia telah memperingatkan bahwa penggunaan aplikasi perpesanan seperti WhatsApp atau WeChat oleh pegawai negeri dapat menimbulkan “risiko keamanan internet yang parah”.
+
+Pihak berwenang sebelumnya mengatakan mereka memperkirakan larangan tersebut akan diberlakukan sepenuhnya pada bulan Oktober ini.
+“Pada tahun lalu, kami menghadapi banyak tantangan. Peretasan menjadi lebih parah,” kata menteri tersebut dalam sebuah program radio.
+“Desktop yang digunakan secara internal di pemerintahan tidak boleh memiliki layanan pesan instan seperti WhatsApp atau WeChat, karena keduanya mempunyai risiko keamanan internet yang serius," sebutnya.
+
+Meskipun dia memahami bahwa kebijakan baru ini mungkin tidak nyaman bagi pegawai negeri, langkah-langkah tersebut merupakan bagian dari upaya untuk meningkatkan keamanan siber.
+“Aplikasi ini tidak dibatasi pada ponsel mereka. Saya yakin departemen yang berbeda akan menemukan penggantinya sendiri,” katanya. “Saya yakin ada lebih banyak solusi daripada tantangan.”
+Pemerintah Hong Kong memperbarui kebijakan keamanan teknologi informasinya pada bulan April yang mewajibkan pegawai negeri sipil untuk mendapatkan izin dari kepala departemen sebelum memasang layanan seperti penyimpanan cloud publik dan layanan pesan berbasis web di komputer kantor mereka.
+Baca juga:  Meta Umumkan PHK Massal: Dampak untuk Karyawan WhatsApp dan Instagram
+Kebijakan ini mencakup aplikasi perpesanan versi desktop seperti WhatsApp dan WeChat, serta penggunaan email pribadi oleh pegawai negeri.
+Berdasarkan langkah-langkah tersebut, departemen dan biro juga harus menggunakan kontrol teknis seperti pemfilteran konten web untuk mencegah akses tidak sah ke layanan terlarang.
+Seorang pegawai negeri mengatakan kepada Post pada hari Selasa bahwa sebagian besar komputer di kantor mereka masih dapat mengakses internet tetapi WhatsApp, Gmail dan Google Drive diblokir.
+
+Pemerintah Hong Kong melarang pegawai negeri sipil menggunakan layanan cloud  Google Drive karena alasan risiko keamanan siber. (KOMPAS.com/Bill Clinten) 
+
+Staf hanya dapat mengakses situs web yang diblokir atau mengunduh file dari internet di beberapa komputer yang ditunjuk, tambah orang dalam tersebut.
+Pegawai pemerintah tersebut menyampaikan kekhawatirannya mengenai langkah tersebut yang akan menurunkan efisiensi karena WhatsApp digunakan untuk komunikasi sehari-hari antara rekan kerja dan juga orang-orang yang bekerja di luar pemerintahan.
+Pegawai negeri lain dari departemen lain mengatakan sejauh ini hanya WhatsApp dan WeChat yang diblokir di komputer kantor.
+Baca juga:  11 Cara Mengetahui Dia Chat dengan Siapa Saja di WhatsApp
+Sumber kedua mengatakan pemblokiran WhatsApp merupakan langkah yang tidak nyaman karena sering digunakan untuk berkomunikasi dengan pihak eksternal mengenai “hal-hal yang tidak dibatasi dan tidak bersifat rahasia”.
+“Tetapi hal ini dapat dimengerti mengingat masalah keamanan,” kata pegawai pemerintah itu.
+Orang dalam kedua menambahkan bahwa kantor mereka sekarang mengandalkan panggilan telepon dan email untuk komunikasi internal dan eksternal.
+“Akan sangat bagus jika ada semacam sistem pesan instan yang aman untuk komunikasi internal,” kata pegawai negeri tersebut.
+Otoritas Hong Kong melaporkan serangkaian pelanggaran data dalam setahun terakhir yang mengakibatkan bocornya informasi pribadi penduduk.
+Badan-badan pemerintah diperintahkan untuk melakukan pemeriksaan keamanan siber pada bulan Mei setelah dua departemen melaporkan pelanggaran yang melibatkan data pribadi hampir 130.000 orang dalam waktu dua hari.
+Pembobolan di Daftar Perusahaan mengungkap nama, nomor identitas, dan alamat sekitar 110.000 orang karena kesalahan pada platform digitalnya, sementara kebocoran di Departemen Pelayanan Listrik dan Mekanik melibatkan data 17.000 penyewa perumahan umum.
+Kantor Kepala Informasi Pemerintah – unit teknologi informasi utama pemerintah – mengatakan pada saat itu bahwa mereka telah meminta semua biro dan departemen untuk meninjau langkah-langkah keamanan siber mereka dan melaporkannya kembali dalam waktu seminggu.
+Sumber: South China Morning Post

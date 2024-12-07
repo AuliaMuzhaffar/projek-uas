@@ -1,0 +1,36 @@
+Judul: Kedapatan Dipakai Huawei, AS Perintahkan TSMC Setop Pengiriman Chip Canggih ke China
+Tanggal: Senin, 11 November 2024 08:16 WIB
+Penulis: Choirul Arifin
+Editor: Editor tidak ditemukan
+
+Isi Artikel:
+NEW YORK - Amerika Serikat memerintahkan perusahaan produsen semikonduktor ternama Taiawan, Taiwan Semiconductor Manufacturing Co (TSMC) agar menghentikan pengiriman chip canggih ke pembelinya di China mulai Senin ini.
+Chip-chip canggih buatan TSMC selama ini sering digunakan dalam aplikasi kecerdasan buatan (AI) oleh perusahaan manufaktur teknologi di China.
+Departemen Perdagangan AS mengirimkan surat kepada TSMC yang memberlakukan pembatasan ekspor pada chip canggih tertentu, dengan desain 7 nanometer atau lebih canggih, untuk tujuan China.
+Chip tersebut menggerakkan akselerator AI dan unit pemrosesan grafis (GPU), menurut sumber yang mengetahui informasi tersebut.
+Perintah ini diterbitkan AS setelah beberapa minggu lalu TSMC memberi tahu Departemen Perdagangan AS bahwa salah satu chipnya telah ditemukan di prosesor AI Huawei, seperti dilaporkan Reuters Oktober lalu.
+Perusahaan riset teknologi Tech Insights adalah pihak telah membongkar pemakaian produk chip tersebut oleh Huawei.
+Menurut Tech Insights, penggunaan chip buatan TSMC merupakan pelanggaran kontrol ekspor yang nyata.
+Huawei merupakan salah satu perusahaan China yang diincar AS lewat aturan baru ini.
+
+Huawei masuk dalam daftar perdagangan terbatas, yang mengharuskan pemasok mendapatkan lisensi untuk mengirimkan barang atau teknologi apa pun ke perusahaan tersebut. Lisensi apa pun yang dapat membantu upaya AI Huawei kemungkinan besar akan ditolak.
+TSMC menangguhkan pengiriman ke perancang chip yang berbasis di China, Sophgo, setelah chipnya cocok dengan yang ditemukan pada prosesor AI Huawei, kata sumber kepada Reuters bulan lalu.
+Reuters tidak menyebutkan bagaimana chip tersebut bisa sampai pada perangkat Huawei Ascend 910B yang dirilis pada tahun 2022.
+Baca juga:  TSMC akan Produksi Chip Canggih 6 Nanometer di Jepang pada 2027
+Chip tersebut dipandang sebagai chip AI paling canggih yang tersedia dari perusahaan Tiongkok.
+Tindakan keras terbaru ini berdampak pada lebih banyak perusahaan dan memungkinkan AS menilai apakah perusahaan lain mengalihkan chip ke Huawei untuk prosesor AI-nya.
+Sebagai hasil dari surat tersebut, TSMC memberi tahu klien yang terkena dampak bahwa mereka menangguhkan pengiriman chip mulai Senin, kata orang tersebut.
+Departemen Perdagangan AS menolak berkomentar.
+“TSMC telah melakukan diskusi rutin dengan pemerintah mengenai masalah pengendalian ekspor dan telah menegaskan bahwa mereka akan mematuhi peraturan domestik dan internasional,” kata Kementerian Ekonomi Taiwan dalam sebuah pernyataan kepada Reuters, merujuk pada pertanyaan spesifik kepada TSMC.
+Baca juga:  TSMC Mulai Produksi Massal Chip 3nm untuk Apple
+Seorang juru bicara TSMC juga menolak berkomentar selain mengatakan bahwa mereka adalah "perusahaan yang taat hukum...berkomitmen untuk mematuhi semua peraturan dan regulasi yang berlaku, termasuk kontrol ekspor yang berlaku."
+Komunikasi Departemen Perdagangan – yang dikenal sebagai surat “informasi” – memungkinkan AS untuk melewati proses penulisan peraturan yang panjang dan dengan cepat menerapkan persyaratan perizinan baru pada perusahaan tertentu.
+Ijiwei, situs media Tiongkok yang meliput industri semikonduktor, melaporkan pada hari Jumat bahwa TSMC memberi tahu perusahaan desain chip Tiongkok bahwa mereka akan menangguhkan chip 7 nanometer atau di bawahnya untuk pelanggan AI dan GPU mulai 11 November.
+Tindakan ini dilakukan ketika anggota parlemen dari Partai Republik dan Demokrat telah menyuarakan kekhawatiran tentang tidak memadainya kontrol ekspor terhadap Tiongkok dan penegakan peraturan tersebut oleh Departemen Perdagangan.
+Departemen Perdagangan AS Pernah Larang Nvidia dan AMD
+Pada tahun 2022, Departemen Perdagangan AS pernah mengirimkan surat kepada Nvidia dan AMD yang membatasi kemampuan mereka untuk mengekspor chip terbaik terkait AI ke Tiongkok, dan kepada pembuat peralatan chip seperti Lam Research, Applied Materials, dan KLA untuk membatasi peralatan untuk membuat chip canggih ke Tiongkok.
+Pembatasan dalam surat-surat tersebut kemudian diubah menjadi aturan yang berlaku bagi perusahaan di luarnya.
+AS terlambat memperbarui peraturan mengenai ekspor teknologi ke Tiongkok. Seperti yang dilaporkan Reuters pada bulan Juli, pemerintahan Biden menyusun peraturan baru mengenai beberapa ekspor peralatan pembuatan chip ke luar negeri.
+Dia berencana menambahkan sekitar 120 perusahaan Tiongkok ke daftar entitas terbatas Departemen Perdagangan, termasuk pabrik pembuat chip, pembuat peralatan, dan perusahaan terkait.
+Namun meskipun ada rencana untuk dirilis pada bulan Agustus, dan target tanggal publikasi yang tentatif, peraturan tersebut masih belum dikeluarkan.
+Sumber: Reuters/Bangkok Post

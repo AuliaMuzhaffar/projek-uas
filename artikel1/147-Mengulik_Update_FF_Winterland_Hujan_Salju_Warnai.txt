@@ -1,0 +1,80 @@
+Judul: Mengulik Update FF Winterland, Hujan Salju Warnai Pertempuran Free Fire di Bulan Desember
+Tanggal: Rabu, 4 Desember 2024 17:41 WIB
+Penulis: Bobby W
+Editor: Suci BangunDS
+
+Isi Artikel:
+TRIBUNNEWS.COM - Memasuki bulan Desember, Garena memberikan tampilan baru yang menarik bagi para pemain Free Fire (FF).
+Seperti yang kita tahu selama ini, sepanjang tahun 2024 ini Garena memberikan banyak sekali perubahan dan penyesuaian yang terjadi di Free Fire.
+Perubahan-perubahan tersebut termasuk karakter baru, senjata baru, fitur baru, event, dan berbagai hal menarik lainnya yang telah kalian nikmati bersama teman-teman. 
+Sekarang memasuki bulan Desember 2024, Garena kembali memberikan update FF terakhir di tahun 2024 dengan tajuk Winterland.
+Update ini sekaligus menutup rangkaian pembaruan yang dilakukan Garena di FF sepanjang tahun ini.
+Pasti kalian penasaran, kan, apa saja yang akan diperkenalkan?
+Dalam update terbaru bertajuk Winterland, para pemain FF kini diajak bermain battle royale dengan medan pertempuran yang penuh dengan salju.
+Berikut ulasan singkat terkait perubahan atau patchnote yang terjadi di update FF Winterland.
+"Winterlands telah tiba, membawa salju tebal dan aurora romantis ke Bermuda. Jalur Es yang keren telah dipasang di berbagai lokasi, memberikan akses perjalanan cepat dan pertempuran seru. Aurora juga memengaruhi beberapa Coin Machine di peta, jadi temukan lokasi khusus ini untuk mendapatkan buff aurora spesial."
+Jalur Es:
+
+Jalur Es telah dipasang di sekitar area seperti Peak, Katulistiwa, Clock Tower, dan Factory di Bermuda.
+Pemain dapat bergerak dengan cepat di antara area menggunakan jalur ini sambil melakukan aksi seperti menembak, berbelok, mempercepat, memperlambat, dan menggunakan throwable saat berada di rel.
+Coin Machine Spesial tersedia di jalur ini, masing-masing memberikan 100 FF Coin. Pemain dapat mengumpulkannya saat meluncur di jalur.
+
+Baca juga:  Kode Redeem Girls Frontline 2 Hari ini 4 Desember 2024, Lengkap dengan Tips Tier List dan Reroll
+Event Aurora: 
+
+Beberapa Coin Machine di peta terkena efek aurora, ditandai dengan efek khusus aurora dan terlihat di minimap.
+Berinteraksi dengan Coin Machine yang terkena efek aurora untuk menyelesaikan misi Event Aurora. Selesaikan misi event dengan berinteraksi dengan 2 Coin Machine yang terkena aurora untuk memberikan buff kepada seluruh anggota tim. (Progres event dapat dilakukan bersama tim di mode Duo dan Squad.)
+Berdasarkan warna aurora saat itu, pemain dapat menerima 1 dari 3 jenis buff dalam setiap pertandingan:
+Aurora Hijau: Memulihkan 2 EP/detik
+Aurora Merah: Penetrasi armor meningkat 50 persen
+Aurora Biru: Gloo Maker mendapatkan tambahan 0,5 EXP/detik
+Fitur ini akan dirilis bersamaan dengan event Winterlands.
+
+
+Garena Free Fire - Inilah kode redeem Free Fire (FF) terbaru hari ini, Jumat, 20 September 2024, segera klaim di reward.ff.garena.com/id untuk dapatkan item gratis. (Garena Free Fire)
+
+Frosty Machine:
+Tiga jenis Frosty Machine akan hadir di Bermuda dan ditandai pada minimap.
+Tiga jenis Frosty Machine yang tersedia:
+Ice Box: Setelah berinteraksi, Ice Box akan secara berkala menyediakan loot seperti senjata, Med Kit, armor, dan kartu skill.
+Loot diberikan setiap 3 detik, dengan loot terakhir muncul pada interval 6 detik, dan berlangsung total selama 33 detik.
+Kualitas loot yang diberikan akan meningkat seiring waktu.
+Setiap Ice Box hanya dapat digunakan sekali.
+Ice Jeep Spawn-Point: Setelah berinteraksi, kendaraan eksklusif event akan muncul di lokasi.
+Penumpang dapat menembak dari dalam kendaraan (tanpa aim assist/auto aim).
+Kendaraan memiliki 1000 HP dan kecepatan maksimum 45m/detik. Cooldown: 35 detik.
+Ice Radar:
+Setelah berinteraksi, pemain akan menerima informasi tentang jumlah musuh di sekitar semua Ice Radar yang ada di peta.Jumlah musuh akan ditampilkan sebagai angka di minimap, tetapi lokasi tepatnya tidak akan ditunjukkan. (Seperti skill Arvon) Cooldown: 30 detik.Fitur ini akan dirilis bersamaan dengan event Winterlands.
+Penyesuaian Lain
+
+Update Free Fire Winterland
+
+ 
+Optimasi Vending Machine:Desain ulang tata letak dan tampilan halaman item Vending Machine untuk memberikan informasi pembelian yang lebih jelas. Menambahkan sidebar baru yang memungkinkan pemain untuk dengan cepat menavigasi ke bagian tertentu untuk pembelian.
+Deskripsi item diperbarui. Deskripsi kini dapat dilihat di pojok kanan atas tampilan halaman Vending Machine saat item dipilih.
+Menambahkan fitur baru yang secara otomatis akan membuang item prioritas rendah saat membeli jika backpack pemain penuh.
+Selama fase terjun (parasut), pemain akan menerima petunjuk waktu terbaik untuk melompat setelah menetapkan lokasi di minimap.
+Optimasi Tampilan di Luar Zona:
+Efek damage (visual) kini bervariasi berdasarkan level Zona Aman.Tepi Zona Aman akan memiliki indikator yang lebih jelas (khusus untuk pengaturan grafik Ultra dan MAX).
+Optimasi Cyber Mushroom: Cyber Mushroom kini dapat diaktifkan menggunakan senjata melee dan fist.
+Kembalinya Zona Aman Bergerak
+Safe Zone terakhir akan bergerak satu kali dengan ukuran tetap, sebelum dan setelah bergerak:NeXTerra: Jarak bergerak: 90m, Waktu bergerak: 90 detik.Bermuda/Kalahari/Purgatory/Alpine: Jarak bergerak: 60m, Waktu bergerak: 80 detik.
+Penyesuaian Waktu Arsenal: Waktu tunggu membuka Arsenal dikurangi dari 320 detik menjadi 260 detik.
+Penyesuaian Loot Tanah: PLASMA dan M590 kini tersedia di loot darat.
+Penyesuaian Airdrop:PLASMA dihapus dari airdrop.RGS-50 diganti dengan FGL-24.
+Penyesuaian War Chest:Mengurangi tingkat drop senjata chip I di War Chest Level 2 dan Level 3.Menambahkan tingkat drop senjata chip II di War Chest Level 2 dan Level 3.
+Penyesuaian Item Vending Machine:Scythe dihapus dari Vending Machine.Menambahkan skill card Alok (300 FF Coin) dan skill card Homer (400 FF Coin).Harga Heal Pistol-Y dikurangi dari 500 FF Coin menjadi 300 FF Coin, dan batas pembelian dikurangi dari 5 menjadi 2.Harga SG Ammo dinaikkan dari 100 FF Coin menjadi 200 FF Coin, dan batas pembelian dikurangi dari 3 menjadi 2.Harga Sniper Ammo dinaikkan dari 100 FF Coin menjadi 200 FF Coin.
+Senjata baru di Vending Machine:MAC10-I: Harga 300 FF Coin, batas pembelian 5.AUG-I: Harga 300 FF Coin, batas pembelian 5.M590: Harga 200 FF Coin.
+Perubahan Gameplay
+
+Update Free Fire Winterland
+
+PERUBAHAN ZIPLINE
+Gerakan zipline telah dirombak dengan tombol baru untuk speed boost dan berbalik arah.Saat berada di zipline, pemain kini dapat menembak, serta menggunakan Med Kit dan throwable.REWORK FINISHING MOVE
+Fist dan Pan kini dapat melakukan finishing moves. Setelah Finishing Move, pemain akan mendapatkan 20 shield points sementara dan peningkatan kecepatan sebesar 15 persen selama 4 detik. Cooldown: 20 detik.
+Jika menggunakan senjata melee dengan finishing move spesial, animasi tersebut akan menggantikan animasi finishing move untuk semua senjata melee lainnya.PENYESUAIAN LAINNYA
+Crosshair saat menggunakan sniper rifle kini akan muncul di tengah layar meskipun tidak dalam mode scope.
+Dalam Lone Wolf, pemain dapat melihat skill yang dilengkapi oleh pemain lain di scoreboard. Charged Dash telah dihapus dari Scythe.
+Pemain kini dapat menekan tombol tembak selama pergantian senjata atau pemulihan dari knock untuk mulai menembak segera setelah animasi selesai tanpa perlu menekan tombol lagi.
+Pemain dapat menekan tombol sprint sebelumnya untuk mulai berlari segera setelah animasi pemulihan dari knock, lompat jendela atau tembakan selesai.Efek HUD telah ditingkatkan untuk interaksi tekan dan memicu aksi.
+(Tribunnews.com/Bobby)

@@ -1,0 +1,37 @@
+Judul: Huawei Rilis HarmonyOS 5.0 Versi Beta, Punya 15.000 Aplikasi
+Tanggal: Rabu, 23 Oktober 2024 06:26 WIB
+Penulis: Choirul Arifin
+Editor: Editor tidak ditemukan
+
+Isi Artikel:
+TRIBUNNEWS.COM  - Huawei meluncurkan pembaruan terkini sistem operasi HarmonyOS 0.5 buatan Huawei sendiri dalam versi beta yang kini memiliki 15.000 aplikasi dan layanan asli.
+HarmonyOS untuk ponsel pintar ini siap bersaing dengan Android milik Google dan iOS milik Apple dan dipasang di perangkat Seri Huawei Pura 70, Huawei Pocket 2 dan Huawei MatePad Pro 11 inci Edisi 2024
+Menurut Huawei, sistem operasi ini akan tersedia di lebih banyak ponsel tahun depan, termasuk ponsel pintar lipat tiga Mate XT terbaru dan model Nova kelas menengah.
+Peluncuran HarmonyOS 5.0 bertujuan meningkatkan adopsi sistem operasi selulernya setelah setahun mengalami pertumbuhan yang kuat di pasar ponsel pintar Tiongkok berkat prosesor seluler yang inovatif.
+Versi terbaru HarmonyOS yang disebut sebagai HarmonyOS Next selama periode pengujian yang membuat OS tersebut menjauh dari akar Android-nya  dan kini telah memiliki 15.000 aplikasi dan layanan asli.
+Richard Yu Chengdong, ketua grup bisnis konsumen Huawei, dalam sebuah acara pada hari Selasa, 22 Oktober 2024 mengatakan, jumlah aplikasi asli yang tersedia di HarmonyOS 0.5 mencapai 10 kali lebih tinggi dibandingkan pada bulan Juni, ketika Huawei merilis versi beta HarmonyOS Next.
+
+“Kami telah mengukir bidang baru hanya dalam satu tahun, dan mencapai apa yang telah dilakukan ekosistem asing selama lebih dari satu dekade,” kata Yu.
+Huawei telah meluncurkan sistem operasi HarmonyOS Next untuk perangkat pintar dan membagikan peta jalan pemutakhiran untuk perangkat lama dan baru beserta tanggal peluncurannya.
+Baca juga:  BYD Fang Cheng Bao Bao 5 Versi Lidar Terkuak, Gosipnya Pakai Huawei ADS 3.0
+Berikut adalah peta jalan HarmonyOS Next:
+8 Oktober 2024
+Sejumlah perangkat batch pertama berpartisipasi dalam aktivitas beta publik di HarmonyOS Nedct, diantaranya:
+Seri Huawei Mate 60Seri Huawei Mate X5Seri Huawei MatePad Pro 13,2 inci
+Yang menarik, pengguna ponsel dan tablet ini memiliki slot pengujian tak terbatas dan dapat merasakan langsung fitur-fitur yang akan datang sebelum peluncuran resmi.
+22 Oktober 2024Huawei akan meluncurkan beta publik HarmonyOS NEXT untuk perangkat berikut:
+Seri Huawei Pura 70Huawei Pocket 2Huawei MatePad Pro 11 inci Edisi 2024
+
+Huawei Pocket 2 merupakan satu dari beberapa devices Huawei yang menggunakan HarmonyOS 5.0.
+
+2025Peningkatan HarmonyOS Roampap akan diperluas tahun depan dengan model-model berikut:
+Desain Huawei Mate XT UltimateHuawei Nova FlipSeri Huawei Nova 13Seri Huawei Nova 12Huawei MatePad pro 12.2Huawei MatePad Air 12 inciSeri Huawei MatePad 11.5
+Perusahaan telah mengonfirmasi bahwa lebih banyak perangkat akan diumumkan nanti saat fase pengujian dan kompatibilitas berlangsung.
+StabilSetelah aktivitas beta publik, Huawei akan merilis versi lengkap untuk perangkat ini. Namun, belum ada tanggal peluncuran resmi yang dikonfirmasi untuk rilis stabil.
+HarmonyOS Next
+Versi HarmonyOS ini menghadirkan antarmuka pengguna baru dengan pusat kendali yang didesain ulang, slider yang intuitif, dan tombol besar.
+Versi ini menyempurnakan personalisasi layar kunci dan layar beranda. OS ini telah meningkatkan keamanan aplikasi dan aplikasi yang tidak memenuhi persyaratan keamanan tidak dapat diinstal pada sistem.
+Versi ini memiliki keamanan file terenkripsi bagi pengguna untuk berbagi.
+Mesin ARK telah ditingkatkan untuk grafis, media, memori, penjadwalan, penyimpanan, konsumsi daya yang lebih rendah, dan penjelajahan internet yang lebih baik.
+Dibandingkan dengan HarmonyOS 4, HarmonyOS Next menghadirkan efisiensi memori 1,5 GB. Sistem operasi ini 30 persen lancar dan memberikan efisiensi baterai lebih dari 55 menit.
+Sumber: SCMP/Blog Huawei

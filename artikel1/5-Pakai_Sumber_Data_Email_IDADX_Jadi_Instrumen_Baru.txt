@@ -1,0 +1,25 @@
+Judul: Pakai Sumber Data Email, IDADX Jadi Instrumen Baru Berantas Judi Online, Bagaimana Cara Kerjanya?
+Tanggal: Sabtu, 9 November 2024 16:58 WIB
+Penulis: Choirul Arifin
+Editor: Hasiolan Eko P Gultom
+
+Isi Artikel:
+Pakai Sumber Data Email, IDADX Jadi Instrumen Baru Berantas Judi Online, Bagaimana Cara Kerjanya?
+ 
+Laporan Wartawan Tribunnews, Choirul Arifin
+TRIBUNNEWS.COM, JAKARTA -  Indonesia Domain Abuse Data Exchange (IDADX) kini jadi instrumen baru memberantas praktik judi online yang saat ini makin menggila di Tanah Air dan merusak mental masyarakat dan perekonomian nasional.
+Platform digital ini dikembangkan oleh Pengelola Nama Domain Internet Indonesia (PANDI) untuk mendukung penuh upaya pemerintah dalam memberantas judi online.
+Cara kerjanya, PANDI membantu mengidentifikasi penyalahgunaan nama domain yang disusupi konten judi online melalui platform IDADX ini.  
+Sumber data idadx.id berasal dari email dan laporan yang dikirimkan oleh masyarakat serta anggota.
+"IDADX merupakan sebuah platform yang dikembangkan untuk mengamankan keamanan siber nasional, salah satunya dengan melacak dan mengidentifikasi laporan dari masyarakat terkait situs web yang disusupi konten judi online maupun konten negatif lainnya seperti phishing, malware, maupun pornografi," kata Ketua PANDI John Sihar Simanjuntak.
+IDADX juga bekerja sama dengan berbagai layanan keamanan siber untuk mengumpulkan dan memverifikasi data terkait ancaman siber yang bertujuan untuk meningkatkan efektivitas dalam menangani penyalahgunaan nama domain. 
+Terkait dengan cara kerja dalam IDADX, John menjelaskan, terdapat sistem Breach Identification and Monitoring Assistant (BIMA).
+Yakni alat otomatis atau bot dalam IDADX yang dengan cepat mengidentifikasi dan mengeskalasi laporan penyalahgunaan nama domain.
+"BIMA dirancang untuk meningkatkan efisiensi serta berfungsi sebagai crawler yang aktif mencari dan menangkap bukti dari laporan penyalahgunaan nama domain," ujarnya dalam keterangan tertulis kepada Tribunnews, Sabtu, 9 November 2024.  
+Dia menjelaskan, ketika diidentifikasi terbukti adanya penyalahgunaan domain, maka PANDI akan memberikan notifikasi dan melakukan prosedur suspend.
+"Tercatat sejauh ini data idadx.id pada tahun 2024 terdapat 46,982 url disusupi konten judi online,” ujar John.
+John menegaskan, negara tak boleh kalah dengan sindikat judi online. PANDI sebagai komunitas internet di Tanah Air siap berkolaborasi dan mendukung pemerintah dalam pemberantasan judi online hingga ke akar.
+“Kami di PANDI memiliki kepedulian yang sangat besar terhadap kasus judi online yang tengah melanda Indonesia. Karena itu kami menciptakan IDADX agar situs web yang terindikasi konten negatif bisa lebih cepat terdeteksi," kata dia.
+"Kami juga siap membantu pemerintah dalam memutus mata rantai judi online yang telah banyak merugikan negara dan bangsa,” imbuhnya.
+“Sebagai pengelola domain .id, kami selalu berkoordinasi dengan Direktorat Layanan Aplikasi Informatika Pemerintah (LAIP) Kementerian Komunikasi dan Digital (Kemkomdigi) ketika terdapat domain go.id dan desa.id yang tersusupi konten negatif seperti judi online," kata John.
+"Namun jika Kemkomdigi membutuhkan data terkait jumlah keseluruhan domain.id yang terdeteksi konten judi online, kami pun siap untuk melaporkannya,” lanjutnya.

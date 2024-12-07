@@ -1,0 +1,37 @@
+Judul: Ancaman Baru 'Mobile Banking' Handphone Android: Incar Fitur Aksesibilitas Semua Data Bisa Dicuri
+Tanggal: Selasa, 22 Oktober 2024 19:18 WIB
+Penulis: Penulis tidak ditemukan
+Editor: willy Widianto
+
+Isi Artikel:
+TRIBUNNEWS.COM, JAKARTA - Aplikasi mobile banking sedianya mempermudah konsumen untuk mengakses layanan perbankan. Namun, ternyata aplikasi tersebut menjadi sasaran modus penipuan online dan kuras rekening. 
+Baca juga:  Dirut BNI: Mobile Banking Bakal Dihapus, Semua Pindah ke Wondr by BNI
+Sepanjang tahun lalu serangan trojan mobile banking yang menuju pengguna HP Android mencapai 32 persen.
+Terkait hal tersebut Pakar Keamanan Siber, Alfons Tanujaya menyebut berkembang satu ancaman baru yang perlu diwaspadai dan sangat berpotensi mengancam pengguna aplikasi mobile banking. Dan celakanya, metode yang dipakai adalah mengeksploitasi fitur tambahan yang disediakan oleh android untuk memudahkan pengguna dengan keterbatasan tertentu, yakni fitur aksesibilitas atau accessibility.
+
+Ada beberapa kasus kata Alfons yang mulai muncul dimana akses disalahgunakan untuk mengambil alih akun mobile banking. 
+"Sehingga sudah tepat jika penyedia mobile banking segera melakukan mitigasi untuk mencegah eksploitasi ini yang akan sangat merugikan pengguna mobile banking," ujar Alfons dalam pernyataannya yang diterima Tribun, Selasa(22/10/2024).
+Dalam kasus pengelola mobile banking, menurut Alfons skala serangannya justru lebih luas dimana ketika server dan database aplikasi sudah diamankan dengan baik dan sulit diserang, maka penyerang akan mengincar titik terlemah dalam pengamanan aplikasi end user alias pengguna aplikasi.
+Baca juga:  3 Game HP Android Buatan Indonesia yang Wajib Dicoba, Nikmati Keseruan Ojol hingga Mengemudi Bus
+Serangan terhadap end user mobile banking yang sangat efektif memanfaatkan rekayasa sosial untuk mendapatkan kepercayaan korbannya seperti mengirimkan APK pencuri SMS yang memalsukan diri sebagai APK kurir online, APK pajak, APK Undangan Pernikahan dan APK Surat Tilang yang intinya adalah mengelabui korbannya menjalankan aplikasi tersebut dan bertujuan mencuri SMS OTP yang akan digunakan oleh peretas untuk mengambil alih dan mengeksploitasi aset digital, baik akun mobile banking, Whatsapp, email atau akun lain sekalipun diproteksi dengan OTP SMS. 
+
+Namun, pada akhir tahun 2024 ini, aksi yang menggunakan APK pencuri SMS sudah menurun karena efektivitasnya menurun seiring meningkatnya kesadaran pengguna ponsel dan usaha pengamanan yang dilakukan oleh banyak pihak baik pihak bank, dari Google, pengamat sekuriti dan pemerintah yang tidak henti melakukan edukasi terhadap masyarakat atas ancaman ini.
+Kini menurut Alfons para pelaku peretas mobile banking mengincar hak akses penuh atau "accessibility permission" yang menjadi incaran kriminal siber yang memang selalu berusaha mencari cara untuk mengendalikan ponsel atau tablet. 
+"Ketika hak ini didapatkan, maka pengguna ponsel akan terperangkap dan perangkat ponselnya bisa diambil alih," ujar Alfons.
+Baca juga:  Singgung Peretasan Pusat Data Nasional, Bambang Soesatyo: Keamanan Siber Indonesia Perlu Peningkatan
+Pendiri Vaksincom ini juga menjelaskan pembuat aplikasi hanya perlu menggunakan 'BIND ACCESSIBILITY SERVICES' guna mendapatkan akses penuh pada perangkat Android yang tujuan diciptakannya adalah baik untuk membantu pengguna disabilitas. Dengan hak ini aplikasi dapat mengontrol semua aktivitas di layar, klik perpindahan layar sampai memasukkan password, membaca apa yang tampil di layar sampai membuka dan menutup aplikasi. 
+Namun jika disalahgunakan fitur ini sangat berbahaya karena mengontrol hampir semua tingkatan OS di perangkat. Ketika aplikasi jahat mendapatkan hak ini, ia akan dapat mengakses semua informasi yang ditampilkan di layar, diketik di keyboard dan mengirimkan ke server remote yang telah dipersiapkan. Ia dapat mencegah pengguna menghapus aplikasinya atau melakukan reset dan bahkan dapat mengaktifkan dirinya secara otomatis setiap kali ponsel dinyalakan.
+
+"Jadi kalau anda mengalami kesulitan dalam mengakses mobile banking anda, dimana setiap kali dibuka akan langsung menutup atau ada keganjilan yang tidak biasa pada aplikasi anda sebaiknya anda ekstra hati-hati dan mengerti apa yang sebenarnya terjadi. Langkah terbaik adalah menghubungi Call Center penyedia aplikasi Mobile Banking anda untuk mendapatkan bantuan," ujarnya.
+Lebih jauh Alfons mengatakan aplikasi yang lancar dan tidak banyak gangguan memang nyaman, tetapi kalau nyaman namun tidak aman tentunya tidak kita inginkan. "Sebaiknya anda memilih mobile banking yang aman dan sedikit ketat dalam masalah sekuriti," kata dia.
+Secara umum menurut Alfons dapat dikatakan sekuriti berbanding terbalik dengan kenyamanan, jadi kalau mau aman yang akan agak sedikit kurang nyaman melakukan prosedur sekuriti. Terkadang, ada solusi out of the box yang diterapkan sehingga aplikasi tetap aman tetapi nyaman digunakan, tetapi guna mendapatkan solusi tersebut membutuhkan waktu dan kreativitas.
+Baca juga:  Alasan Pemerintah Enggan Bayar Tebusan Rp131 Miliar ke Peretas PDNS
+Salah satu pengamanan yang dapat dijadikan patokan dasar oleh bank penyedia layanan mobile banking adalah menyadari bahwa OTP melalui SMS adalah tidak aman dan sistem prosedur yang dibuat harus dapat mengakomodasi andaikan OTP SMS nasabah berhasil diakses oleh kriminal namun akun mobile banking tersebut tetap aman. 
+"Solusinya adalah setiap kali terjadi pergantian ponsel atau nomor ponsel, nasabah harus melakukan verifikasi ekstra ketat seperti melakukan tatap muka, mengambil kode aktivasi mobile banking di ATM bank atau melakukan verifikasi melalui video call atau panggilan telepon," ujar Alfons.
+Untuk menghindari eksploitasi aksesibilitas, anda dapat menonaktifkan semua aplikasi yang memiliki akses pada aksesibilitas dengan cara mengakses :
+[Settings] [Accessibility] [Installed apps] dan pilih OFF untuk semua setting sehingga tidak ada aplikasi yang boleh menggunakan fitur aksesibilitas.
+
+Terkadang ada program antivirus yang meminta akses aksesibilitas, jika program tersebut anda dapatkan dari luar Play Store Vaksincom menyarankan anda menghindari menggunakan aplikasi tersebut kecuali anda yakin sekali atas keamanan aplikasi tersebut.
+"Namun jika anda sudah menggunakan aplikasi dari Play Store dan masih menyebabkan aplikasi mobile banking anda diblokir dan aplikasi antivirus memang meminta akses aksesibilitas, anda dapat menghubungi Call Center mobile banking anda dan menginformasikan aplikasi Play Store yang anda gunakan untuk tidak diblokir oleh penyedia layanan mobile banking," kata Alfons.
+Baca juga:  Daftar Nama Sementara Pimpinan di 11 Komisi DPR RI, Dua Keponakan Prabowo Jadi Wakil Ketua Komisi
+"Harap jangan salah kaprah dengan menguninstall antivirus dari ponsel anda demi menjalankan mobile banking, aplikasi antivirus tetap diperlukan akan tetap melindungi ponsel anda, anda hanya perlu menonaktifkan akses antivirus tersebut tidak mengakses aksesibilitas / accessibility," tutup Alfons.

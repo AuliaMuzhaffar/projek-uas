@@ -1,0 +1,29 @@
+Judul: Keluhan iPhone 16: Masalah Layar dan Baterai Bikin Pengguna Kecewa
+Tanggal: Selasa, 22 Oktober 2024 17:55 WIB
+Penulis: Namira Yunia Lestanti
+Editor: Hendra Gunawan
+
+Isi Artikel:
+Laporan Wartawan Tribunnews.com Namira Yunia
+TRIBUNNEWS.COM, WASHINGTON – Pasca dirilis pada awal September lalu, iPhone 16 series mulai dibanjiri cibiran netizen. Masalah ini mencuat setelah para pengguna iPhone 16 dan iPhone 16 Pro melaporkan adanya masalah pada bagian layar dan baterai ponsel.
+Di forum online Reddit, para pengguna gawai iPhone 16 menyampaikan kekecewaannya atas masalah yang timbul pada ponsel baru Apple itu. Mereka mengeluh layar iPhone generasi baru itu berulang kali mengalami macet alias crash atau hang.
+Salah satu pengguna yang mengeluhkan masalah itu yakni akun bernama "sherii999". Dalam cuitannya ia menjelaskan bahwa iPhone 16 Pro miliknya kerap mengalami crash. Adapun masalah itu muncul ketika iPhone 16 dalam mode standby atau ketika ponsel dipakai, namun sistemnya tidak responsif.
+Baca juga:  Pemerintah Larang Penjualan iPhone 16 di Indonesia Sampai Apple Lunasi Tagihan Investasi
+Keluhan serupa juga dilontarkan pengguna lainnya, bahkan mereka mendapati ponselnya macet hingga 20 kali sehari. Untuk mengatasi masalah tersebut, para pengguna iPhone 16 Pro yang bermasalah mencoba untuk me-reset iPhone mereka dan memulihkan data lewat iCloud.
+Namun cara tersebut tak cukup mampu menuntaskan masalah crash, melainkan hanya mengatasi masalah di layar dan gangguan di kamera. Banyak analis berspekulasi, menyebutkan kendala ini disebabkan oleh masalah anomali iPhone 16 dengan iCloud.
+Tak hanya masalah layar, sejumlah pengguna iPhone 16 juga turut mengeluhkan kekecewaan mereka atas masa pakai baterai perangkat baru yang tidak sesuai dengan harapan.
+Setelah peluncuran, beberapa pengguna menjelaskan bahwa daya tahan baterai iPhone 16 jauh lebih rendah, terutama saat ponsel dalam mode standby. Biasanya, smartphone akan menghemat daya secara signifikan saat dalam mode standby. Namun, pada iPhone 16 dan iPhone 16 Pro, baterai terus terkuras bahkan ketika ponsel tidak digunakan.
+
+Di Reddit, seorang pengguna melakukan percobaan dengan ‌iPhone 16 Pro‌ dan iPhone 14 Pro, ia mengklaim telah menggunakan keduanya dengan cara yang sama namun daya tahan baterai ‌iPhone 16 Pro‌ turun hingga 58 persen dalam waktu 36 jam, sedangkan ‌iPhone 14‌ Pro berada pada angka 85 persen.
+Tak jelas mengapa baterai iPhone 16 menguras banyak daya, namun kemungkinan besar kebocoran karena fitur "Find My iPhone", yang membutuhkan koneksi internet aktif sepanjang waktu. Menyedot daya saat standby, hingga membuat baterai cepat habis, sebagaimana dikutip dari Macrumors.
+Merespon kritikan yang ditujukan untuk gawai barunya, Apple dilaporkan melakukan peningkatan dengan merilis iOS 18.0.1 dan iOS 18.1 beta. Namun pembaruan perangkat lunak tidak berhasil untuk semua orang. Tidak jelas apa yang sebenarnya terjadi yang mempengaruhi baterai, tetapi sepertinya ada masalah bug mendasar yang perlu diperbaiki Apple dalam pembaruan ‌iOS 18‌ mendatang.
+Baca juga:  Gara-gara Komitmen Investasi, Rilis Iphone 16 di Indonesia Terganjal
+Netizen Keluhkan Fitur AI iPhone 16
+Cibiran peluncuran iPhone 16 bukan kali pertama yang diterima Apple, di sosial media iPhone 16 menuai kritikan lantaran fitur Apple Intelligence yang menjadi unggulan dari gawai iPhone 16 baru tersedia bersama update iOS 18.1 pada bulan Oktober mendatang.
+Akan tetapi layanan fitur Apple Intelligence di China masih belum jelas karena terbentur masalah regulasi. Masalah ini muncul imbas kebijakan ketat pemerintah China yang mewajibkan semua chatbot berbasis AI generatif untuk didaftarkan dan diperiksa sebelum dirilis ke publik.
+Adalah Hong Yi, seorang programmer yang menggunakan iPhone 15 yang mengurungkan niatnya untuk melakukan upgrade ke iPhone 16 karena masih tidak jelas kapan Apple Intelligence akan tersedia di China.
+"Absennya AI di China sama saja dengan memotong salah satu lengan Apple," kata seorang netizen di Weibo, seperti dikutip dari South China Morning Post.
+“Dengan keunggulan terbesar yang tidak tersedia, bukankah Anda seharusnya mengenakan harga setengah dari harga sebenarnya?” tulis sebuah komentar populer di situs mikroblog Weibo.
+Selain fitur AI, kurangnya inovasi perangkat keras utama pada iPhone 16 juga mengundang cemoohan dari beberapa konsumen di Tiongkok, mereka kompak membandingkan peluncuran tersebut dengan ponsel pintar lipat tiga pertama Huawei, XT, yang diluncurkan hanya beberapa jam setelah acara perdana Apple.
+Kekurangan terakhir yang paling mencolok dari iPhone 16 da adalah USB-nya yang masih menggunakan interface 2.0. Padahal, seri lainnya seperti iPhone 16 Pro dan 16 Pro Max sudah menggunakan USB 3.2. Meskipun sama-sama sudah mode Type-C tapi, dari segi kecepatan transfer data dan lain sebagainya USB 2.0 pada iPhone 16 masih kalah jauh.
+Konten ini disempurnakan menggunakan Kecerdasan Buatan (AI).

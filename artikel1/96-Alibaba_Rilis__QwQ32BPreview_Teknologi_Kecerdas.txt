@@ -1,0 +1,22 @@
+Judul: Alibaba Rilis  QwQ-32B-Preview, Teknologi Kecerdasan Buatan yang Lebih Pintar Ketimbang OpenAI
+Tanggal: Minggu, 1 Desember 2024 07:21 WIB
+Penulis: Namira Yunia Lestanti
+Editor: Choirul Arifin
+
+Isi Artikel:
+Laporan Wartawan Tribunnews.com Namira Yunia
+ 
+TRIBUNNEWS.COM, BEIJING – Alibaba meluncurkan teknologi kecerdasan buatan artificial intelligence/AI) model bahasa besar (Large Language Model) QwQ-32B-Preview yang berfokus pada penalaran (reasoning) logis dan kemampuan pemecahan masalah.
+Qwen memiliki 32,5 miliar parameter dan mampu memproses hingga 32.000 kata, menunjukkan bahwa AI ini akan lebih akurat dan dapat menangani tugas yang lebih kompleks, dibanding para pesaingnya.
+Berdasarkan beberapa pengujian, QwQ-32B-Preview tercatat memiliki kinerja yang lebih baik dibanding model AI sejenis seperti o1-preview dan o1-mini dari OpenAI.
+Sementara menurut data Alibaba, QwQ-32B-Preview sukses mengalahkan o1-preview pada pengujian AIME yang merupakan alat untuk mengevaluasi kinerja model AI, dengan menggunakan model AI lain, dan MATH kumpulan soal.
+
+ 
+Dengan kemampuan ini, QwQ-32B-Preview diklaim mampu memecahkan teka-teki logika dan menjawab pertanyaan matematika yang cukup rumit serta memeriksa fakta secara mandiri, sehingga meminimalisir kekeliruan yang biasanya dihasilkan model AI, mengutip dari TechCrunch. 
+Alibaba bukanlah perusahaan teknologi besar pertama yang merilis AI open-source, sebelumnya Meta juga telah merilis Llama 3.1, yang juga dibangun di atas perjanjian lisensi yang serupa.
+Baca juga:  OpenAI Rilis Mesin Pencari ChatGPT, Siap Geser Peran Google
+Peluncuran ini mencerminkan kebangkitan Alibaba yang sebelumnya diisukan bangkrut akibat ditinggal pendirinya, Jack Ma.
+Raksasa e-commerce China itu harus mengalami tantangan berat dari pendapatan yang tidak memenuhi ekspektasi hingga ketatnya persaingan pasar.
+Baca juga:  Iran Melawan Sanksi AS, Luncurkan Mata Uang Digital CBDC Rial
+Pendapatan Alibaba mencatatkan penurunan 243,24 miliar yuan. Angka itu jauh di bawah perkiraan rata-rata analis sebesar 249,05 miliar yuan.
+Untuk menekan pembengkakan kerugian, Alibaba Group Holding Ltd bahkan terpaksa memangkas atau PHK sekitar 20.000 karyawannya di sepanjang 2023.

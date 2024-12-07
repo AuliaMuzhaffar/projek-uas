@@ -1,0 +1,23 @@
+Judul: ICANN Terbitkan LGR, Aksara Bali Bakal Jadi Identitas Digital Global
+Tanggal: Jumat, 29 November 2024 16:15 WIB
+Penulis: Choirul Arifin
+Editor: Seno Tri Sulistiyono
+
+Isi Artikel:
+TRIBUNNEWS.COM, JAKARTA - Upaya panjaag Pengelola Nama Domain Internet Indonesia (PANDI) bersama Universitas Udayana mendorong penggunaan Aksara Bali di dunia digital akhirnya membuahkan hasil.
+Internet Corporation for Assigned Names and Numbers (ICANN) resmi menerbitkan Second-Level Reference Label Generation Rules (LGR) Aksara Bali di November 2024. 
+Menyusul terbitnya LGR tersebut, PANDI akan segera meluncurkan Domain Tingkat Dua (DTD) ber-Aksara Bali, di mana hal ini sekaligus  menjadi Second Level- Internationalized Domain Names (IDN) pertama di Indonesia. 
+“Penerbitan LGR Aksara Bali oleh ICANN merupakan tonggak penting dalam usaha pelestarian bahasa dan budaya Bali di dunia digital," kata Ketua PANDI John Sihar Simanjuntak dalam keterangan tertulis dikutip Jumat, 29 November 2024.
+John mengatakan, semua pihak perlu mendukung upaya ini agar Aksara Bali tetap hidup dan berkembang di era digital, salah satunya dapat digunakan sebagai nama alamat situs web di internet.
+Baca juga:  Pesona Aset Digital Pikat Masyarakat, Bappebti: Transaksi Kripto Tembus Rp475 M Sepanjang 2024
+Sebagai informasi, LGR merupakan pedoman teknis yang digunakan untuk menentukan apakah karakter-karakter pada  sebuah Nama Domain dapat diterima dalam Domain Name System (DNS), termasuk IDN yang memungkinkan orang di seluruh dunia menggunakannya sebagai nama domain atau pemrograman komputer.
+John menambahkan, jika Aksara Bali diterima dalam sistem DNS, masyarakat Bali dapat lebih bebas mengekspresikan identitas budaya mereka di dunia maya, sekaligus memberikan kesempatan bagi masyarakat internasional untuk mengenal dan menghargai keberagaman budaya yang dimiliki Indonesia.
+Namun dalam implementasinya, seluruh pihak yang terlibat, termasuk pengguna, pengelola domain, dan pembuat kebijakan, harus memahami pentingnya aturan ini agar dapat menggunakannya secara efektif. 
+Selanjutnya, infrastruktur teknologi yang mendukung penggunaan aksara Bali di internet juga harus diperhatikan.
+Hal ini mencakup pengembangan perangkat keras, seperti keyboard komputer dengan tata letak Aksara Bali, serta perangkat lunak yang kompatibel dengan aksara ini.
+Pengembangan perangkat lunak yang memungkinkan pengetikan dan pengolahan teks dalam Aksara Bali harus lebih diperluas, terutama di platform digital seperti media sosial, situs web, dan lainnya. 
+
+“Satu hal penting yang juga harus diperhatikan adalah memperkenalkan dan mengedukasi masyarakat terkait penggunaan Aksara Bali dalam IDN, terutama di kalangan generasi muda yang lebih familiar dengan Aksara Latin,” ungkap John.
+Seperti diketahui, inisiasi PANDI dalam mendorong Aksara Bali masuk ke IDN dimulai dari penjajakan, kolaborasi, pengkajian bersama para ahli aksara, menggelar rapat koordinasi bersama ICANN, hingga melakukan berbagai kegiatan untuk mendorong standarisasi penggunaan Aksara Bali di ranah digital.
+PANDI berharap, penerbitan LGR ini bisa membuat pendaftaran domain Aksara Bali semakin masif, yang pada gilirannya dapat memperkaya konten digital di internet dengan informasi dan pengetahuan lokal yang lebih beragam.
+Di sisi lain, seluruh penggunanya akan memiliki peluang untuk memperkenalkan dan melestarikan warisan budaya dan bahasa Bali dalam ruang digital sehingga bisa menjadi bagian dari identitas digital global.
